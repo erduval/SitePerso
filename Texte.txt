@@ -1,0 +1,81 @@
+######Experience Pro
+
+Vendeur
+
+Juin 2019 - août 2019
+
+Juillet 2020 - août 2020
+
+​J'ai travaillé pendant deux étés à l'épicerie de Ste-Marine. Ce travail m'a fait découvrir l'environnement professionnel où j'ai collaboré avec une équipe pendant quelques mois. J'ai échangé avec les clients afin de répondre le plus rapidement à leurs besoins. J'ai découvert pendant ces périodes comment fonctionne une entreprise que ce soit pendant les heures d'ouverture ou pendant les heures de fermeture (nettoyage, caisse, etc...).
+
+​Stage de 2nd
+
+​Février 2018
+
+​Dans le cadre scolaire j'ai effectué un stage pendant mon année de seconde au port de Ste-Marine. J'ai découvert un job qui requiert beaucoup d'autonomie et d'investissement. Afin de pouvoir répondre au mieux à la clientèle, j'ai développé mon sens de l'organisation et de l'écoute (entretien du port, nettoyage des WC public, nettoyage des quais, contrôle du fichier client). J'ai su me montrer curieux pendant cette période car c'est un métier que j'ai découvert et ce fût l'occasion de montrer ma motivation.
+
+
+Réceptionnaire, Super U Combrit
+
+​Juin 2021 - Aout 2021
+
+​Comme travail, j'ai saisonnier, j'ai pu exercer le métier de réceptionnaire au Super U de Combrit pendant deux mois. Ce travail demande beaucoup d'autonomie et de rigueur, car il faut toujours trouver quelque chose à faire afin d'aider le plus possible les autres équipes et également prendre le temps de réaliser le travail qui est de décharger les camions à certaines heures de la mâtiné. Durant cet emploi, j'ai découvert le métier dans les grandes distributions et je me suis montré investi pour répondre aux attentes de mes supérieurs.
+
+
+
+######Etudes
+
+​Diplômé du Baccalauréat
+
+​Juin 2020
+
+​J'ai obtenu un bac scientifique option ISN pendant l'année 2020. Malgré le confinement je me suis montré volontaire et j'ai réussi avec l'aide de camarades à créer un serveur discord pour que les élèves de la classe puissent suivre les cours depuis leur domicile facilement.
+
+
+​ DUT informatique
+
+​depuis Septembre 2020
+
+​J'ai obtenu ma première année de DUT informatique ou j'ai découvert le domaine de la programmation informatique. Durant cette première j'ai expérimenté les langages de programmation Java, C, HTML, CSS, python, PhP et système où j'ai réalisé, avec certain de mes camarades, des projets informatiques présentés ci-dessous.
+
+
+
+######Projets
+
+
+​Logiciel de gestion d'un festival
+
+​Dans le cadre de ma formation avec un groupe de 6 personnes, nous réalisons un logiciel de gestion de festival. L'objectif principal réside à faciliter la gestion d'un festival par le client (fictif). Nous avons réparti notre travail en trois groupes différents de deux personnes afin de répondre le plus rapidement et le plus efficacement aux attentes du client. La contrainte sanitaire du moment nous a imposé d'utiliser le site GitLab. Il nous a permis de travailler à distance sur une base commune (projet accessible en cliquant sur le bouton ci-dessous).
+
+
+https://gitlab.com/projet-s24/gestion-festival.git
+
+
+
+​Gestion des inscription d'un club d'art martiaux
+
+
+​Dans le cadre de ma formation avec un groupe de 6 personnes, nous réalisons une page web pour que les utilisateur s'inscrive le plus facilement possible aux activités proposées dans un club d'art martiaux. L'objectif principale est de rendre l'inscription papier en format numérique pour faciliter la gestion des inscrit dans le club pour ensuite rendre le site le plus fonctionnel possible.
+
+
+http://sportingfive.fr
+
+
+
+######Les passions
+
+​Les Jeux vidéo
+
+​Beaucoup les aiment
+
+
+​Je sais que aujourd'hui nous pouvons voir les jeux vidéos partout et que beaucoup de jeunes comme moi auront cette passion, mais moi les jeux vidéo m'ont apporté beaucoup de choses car pendant le premier confinement c'est grâce à eux que j'ai pu rencontrer des personnes qui m'on sorti de la solitude crée.
+
+
+
+Trouver d'autres idées
+
+
+
+
+
